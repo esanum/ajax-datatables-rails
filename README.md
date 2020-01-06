@@ -1,5 +1,10 @@
 # ajax-datatables-rails
 
+This is our own fork of `ajax-datatables-rails` which provides a
+'0.3.1_with_rails5' branch that allows us to use this library v0.3.1 with Rails 5.
+Upgrading this library is not an option for us and we are looking to migrate
+away from it.
+
 [![GitHub license](https://img.shields.io/github/license/jbox-web/ajax-datatables-rails.svg)](https://github.com/jbox-web/ajax-datatables-rails/blob/master/LICENSE)
 [![Gem](https://img.shields.io/gem/v/ajax-datatables-rails.svg)](https://rubygems.org/gems/ajax-datatables-rails)
 [![Gem](https://img.shields.io/gem/dtv/ajax-datatables-rails.svg)](https://rubygems.org/gems/ajax-datatables-rails)
